@@ -40,6 +40,11 @@ pip install pyautogui pywin32 pynput
 
 ### GUI使用
 
+<p align="center">
+  <img src="./assets/刚启动完的画面.png" width="45%" style="display:inline-block; margin-right: 10px;" />
+  <img src="./assets/运行中的画面.png" width="45%" style="display:inline-block;" />
+</p>
+
 ```bash
 python main.py
 ```
