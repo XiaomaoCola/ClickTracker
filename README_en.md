@@ -37,7 +37,7 @@ pip install pyautogui pywin32 pynput
 ### GUI Usage
 
 ```bash
-python click_calibrator.py
+python main.py
 ```
 
 1. Click "检测BlueStacks窗口" button to detect the target window
@@ -49,7 +49,7 @@ python click_calibrator.py
 ### Programmatic Usage
 
 ```python
-from click_calibrator import SimpleClickDetector
+from main import SimpleClickDetector
 
 # Initialize detector (defaults to "BlueStacks", can be changed to any keyword)
 detector = SimpleClickDetector("Target App Name")

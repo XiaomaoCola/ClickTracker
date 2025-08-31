@@ -41,7 +41,7 @@ pip install pyautogui pywin32 pynput
 ### GUI使用
 
 ```bash
-python click_calibrator.py
+python main.py
 ```
 
 1. 「検出BlueStacksウィンドウ」ボタンをクリックして対象ウィンドウを検出
@@ -53,7 +53,7 @@ python click_calibrator.py
 ### プログラムでの使用
 
 ```python
-from click_calibrator import SimpleClickDetector
+from main import SimpleClickDetector
 
 # 検出器を初期化（デフォルトは"BlueStacks"、任意のキーワードに変更可能）
 detector = SimpleClickDetector("対象アプリ名")
