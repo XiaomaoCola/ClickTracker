@@ -1,5 +1,9 @@
 # ClickTracker
 
+<p align="center">
+  🌐 <strong>Language</strong> | 🇯🇵 <a href="./README.md"><strong>日本語</strong></a> | 🇺🇸 <a href="./README_en.md"><strong>English</strong></a> | 🇨🇳 <a href="./README_ch.md"><strong>中文</strong></a>
+</p>
+
 Windowsアプリケーション用の相対座標取得ツール
 
 ## 概要
